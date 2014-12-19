@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "dev-master",
+        "symfony/Yaml": "dev-master"
+    }
+}

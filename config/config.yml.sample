@@ -1,0 +1,13 @@
+# If you don't have these information, please create them using Amazon IAM
+amazon:
+    amazonKey:      'AAAAAAAAAAAAAAA'
+    amazonSecret:   'aAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaA'
+    amazonRegion:   'us-east-1d'
+    amazonVault:    'name_of_vault_you_created'
+
+# What database do you want to backup?
+mysql:
+    host:   '127.0.0.1'
+    user:   'username'
+    pass:   'password'
+    db:     'your_database'
