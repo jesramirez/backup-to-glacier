@@ -11,3 +11,9 @@ mysql:
     user:   'username'
     pass:   'password'
     db:     'your_database'
+
+# What folder will you storage the files to upload?
+# What kind of file do you want to upload? You can use the bash regex
+files:
+    toUploadFolder:     './to-upload'
+    extensionToUpload:  '*.bz2'
